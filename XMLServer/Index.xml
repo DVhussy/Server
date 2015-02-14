@@ -1,0 +1,37 @@
+﻿<cities>
+    <city>
+        <id>0</id>
+        <name>Lahore</name>
+        <zip>54000</zip>
+    </city>
+    <city>
+        <id>1</id>
+        <name>Karachi</name>
+        <zip>54001</zip>
+    </city>
+    <city>
+        <id>2</id>
+        <name>ISLamand</name>
+        <zip>54002</zip>
+    </city>
+    <city>
+        <id>3</id>
+        <name>MAinLahore</name>
+        <zip>54003</zip>
+    </city>
+    <city>
+        <id>4</id>
+        <name>FG</name>
+        <zip>54004</zip>
+    </city>
+    <city>
+        <id>5</id>
+        <name>KM</name>
+        <zip>54005</zip>
+    </city>
+    <city>
+        <id>6</id>
+        <name>ASD</name>
+        <zip>54006</zip>
+    </city>
+</cities>
